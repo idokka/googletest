@@ -1,0 +1,7 @@
+# generated files
+_Debug/
+_Release/
+msvc/gtest/
+msvc/gtest_main/
+*.suo
+*.sdf
